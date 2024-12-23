@@ -25,5 +25,6 @@ Este projeto é uma recriação do clássico jogo **Space Invaders**. O jogo per
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Markdown**
 - **Git**
 
