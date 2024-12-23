@@ -12,18 +12,18 @@ Este projeto é uma recriação do clássico jogo **Space Invaders**. O jogo per
 ---
 
 ## Funcionalidades
-- **Controle da Nave**: Movimentação da nave para a esquerda e direita com as setas do teclado.
-- **Disparo de Mísseis**: Disparar mísseis para destruir as naves inimigas.
-- **Invasores Alienígenas**: Naves alienígenas que se movem da direita para a esquerda e descem à medida que avançam.
-- **Colisão**: Deteção de colisões entre mísseis e naves inimigas, resultando na destruição de ambas.
-- **Pontuação**: O jogador ganha pontos ao destruir as naves inimigas.
-- **Fim de Jogo**: O jogo termina quando as naves inimigas atingem a base do jogador ou quando todas as naves forem destruídas.
+1. **Controle da Nave**: Movimentação da nave para a esquerda e direita com as setas do teclado.
+2. **Disparo de Mísseis**: Disparar mísseis para destruir as naves inimigas.
+3. **Invasores Alienígenas**: Naves alienígenas que se movem da direita para a esquerda e descem à medida que avançam.
+4. **Colisão**: Deteção de colisões entre mísseis e naves inimigas, resultando na destruição de ambas.
+5. **Pontuação**: O jogador ganha pontos ao destruir as naves inimigas.
+6. **Fim de Jogo**: O jogo termina quando as naves inimigas atingem a base do jogador ou quando todas as naves forem destruídas.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Git**
 
